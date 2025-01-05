@@ -62,6 +62,9 @@ modules.builtin
 #
 /*.spec
 
+# Build output
+/out/
+
 #
 # Debian directory (make deb-pkg)
 #
